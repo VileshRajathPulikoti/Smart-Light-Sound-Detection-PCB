@@ -23,17 +23,6 @@ This project is a compact circular PCB designed to detect light and sound using 
 - Resistors (10k, 5.6k, 470Ω)
 - SPDT Switch
 
-## Images
-
-### PCB 3D View
-![PCB 3D](Images/pcb_3d.png)
-
-### PCB Layout
-![PCB Layout](Images/pcb_layout.png)
-
-### Schematic
-![Schematic](Images/schematic.png)
-
 ## Organization
 **Venkronix – Volt Vision**
 
